@@ -1,0 +1,71 @@
+{
+    "CI_Cat": [
+        "Phone",
+        "application",
+        "applicationcomponent",
+        "computer",
+        "database",
+        "displaydevice",
+        "hardware",
+        "networkcomponents",
+        "officeelectronics",
+        "software",
+        "storage",
+        "subapplication"
+    ],
+    "CI_Subcat": [
+        "Application Server",
+        "Automation Software",
+        "Banking Device",
+        "Citrix",
+        "Client Based Application",
+        "Controller",
+        "DataCenterEquipment",
+        "Database",
+        "Desktop",
+        "Desktop Application",
+        "ESX Cluster",
+        "Encryption",
+        "Exchange",
+        "IPtelephony",
+        "KVM Switches",
+        "Keyboard",
+        "Laptop",
+        "Linux Server",
+        "MigratieDummy",
+        "Modem",
+        "Monitor",
+        "Net Device",
+        "Network Component",
+        "NonStop Server",
+        "Number",
+        "Omgeving",
+        "Printer",
+        "SAN",
+        "SAP",
+        "Scanner",
+        "Server Based Application",
+        "SharePoint Farm",
+        "Standard Application",
+        "Switch",
+        "System Software",
+        "Web Based Application",
+        "Windows Server"
+    ],
+    "Impact": [
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Urgency": [
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "Category": [
+        "incident",
+        "request for information"
+    ]
+}
